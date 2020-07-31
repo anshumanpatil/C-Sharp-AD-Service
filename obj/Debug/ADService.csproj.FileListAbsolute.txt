@@ -1,0 +1,11 @@
+C:\Users\anshu\source\repos\ADService\bin\Debug\ADService.exe.config
+C:\Users\anshu\source\repos\ADService\bin\Debug\ADService.exe
+C:\Users\anshu\source\repos\ADService\bin\Debug\ADService.pdb
+C:\Users\anshu\source\repos\ADService\obj\Debug\ADService.csprojAssemblyReference.cache
+C:\Users\anshu\source\repos\ADService\obj\Debug\ADService.csproj.CoreCompileInputs.cache
+C:\Users\anshu\source\repos\ADService\obj\Debug\ADService.exe
+C:\Users\anshu\source\repos\ADService\obj\Debug\ADService.pdb
+C:\Users\anshu\source\repos\ADService\bin\Debug\ADService.exe.manifest
+C:\Users\anshu\source\repos\ADService\bin\Debug\ADService.application
+C:\Users\anshu\source\repos\ADService\obj\Debug\ADService.exe.manifest
+C:\Users\anshu\source\repos\ADService\obj\Debug\ADService.application
